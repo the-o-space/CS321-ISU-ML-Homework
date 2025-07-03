@@ -129,8 +129,7 @@ jupyter notebook
 
 ## Author
 
-[Your Name]  
-[Date]
+Fedor Ryzhenkov
 
 ## License
 
